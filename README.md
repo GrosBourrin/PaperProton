@@ -1,9 +1,9 @@
-# ProtonPaper
+# PaperProton
 Google Chrome theme for Firefox Proton!
 <hr>
 
-## Say hello to ProtonPaper!
-ProtonPaper is a custom userChrome.css theme for the new Firefox Proton update (v89+). ProtonPaper completely transforms your Firefox experience with Google's Material design, from icons, to menus, to colors, and more.<br>
+## Say hello to PaperProton!
+PaperProton is a custom userChrome.css theme for the new Firefox Proton update (v89+). PaperProton completely transforms your Firefox experience with Google's Material design, from icons, to menus, to colors, and more.<br>
 The theme supports light and dark mode, and contains replicate colors from that of Chrome. All the colors, styles, and more are sampled directly from Chrome itself, and cloned into Firefox.<br>
 Check out these previews!
 
